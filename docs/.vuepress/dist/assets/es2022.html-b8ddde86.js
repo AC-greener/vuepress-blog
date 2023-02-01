@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-36b3bdc0","path":"/js/es2022.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"es2022","slug":"es2022","link":"#es2022","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"js/es2022.md"}');export{e as data};
