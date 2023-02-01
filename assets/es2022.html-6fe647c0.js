@@ -1,0 +1,1 @@
+import{_ as s,p as t,q as a,R as e,t as c}from"./framework-96b046e1.js";const r={},o=e("h3",{id:"es2022",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#es2022","aria-hidden":"true"},"#"),c(" es2022")],-1),n=[o];function _(d,i){return t(),a("div",null,n)}const l=s(r,[["render",_],["__file","es2022.html.vue"]]);export{l as default};
